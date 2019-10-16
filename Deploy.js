@@ -15,6 +15,7 @@ module.exports = function(deployTarget) {
     excludePaths : ['index.html', '/assets/moment-locales/', '/assets/locales/', 'assets/moment-locales', 'assets/locales/'],
     includePaths : ['/'],
     network      : ['*'],
+    pathvirtuo   : ['/*'],
 
     manifestRoot(context) {
       return context.config['html-manifest'].prependPath;
