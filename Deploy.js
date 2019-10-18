@@ -10,7 +10,7 @@ module.exports = function(deployTarget) {
   };
 
   ENV['html-manifest'] = {
-    filename     : 'manifest.appcache',
+    filename     : 'manifest.appcache2.0',
     prependPath  : '/',
     excludePaths : ['index.html', '/assets/moment-locales/', '/assets/locales/', 'assets/moment-locales', 'assets/locales/'],
     includePaths : ['/'],
