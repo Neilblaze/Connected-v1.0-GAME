@@ -43,5 +43,5 @@ module.exports = function(deployTarget) {
   if (deployTarget === 'gh-pages') {
     ENV['html-manifest'].prependPath = `/${process.env.REPO_SLUG || 'open-event-frontend'}/`;
   }
-  return ENV;
+  return ENV.(alpha);
 };
