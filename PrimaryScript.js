@@ -11,7 +11,7 @@ let story = [
     'This is a story about a particle, forever seeking a way back to its soulmate.',
     '',
     '',
-    'Our particle can sense its soulmate\'s relative space-time coordinate. However, its soulmate is always moving',
+    'Our particle can sense its soulmate\'s relative space-time coordinate. However, its soulmate is always in a moving state',
     'from one point in space to another, making it more difficult for the two to reunite.',
     '! You have a max quantum beam charge of 5.',
     '!beam The Quantum Beam points to your destined pair. Click to activate Quantum Beam : ',
