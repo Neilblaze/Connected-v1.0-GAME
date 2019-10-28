@@ -1,1 +1,6 @@
 $PARTICLES = SET.arbitary()
+{
+set.(motion)== rand$$;
+threshold = 55;
+size = (6,85);
+}
