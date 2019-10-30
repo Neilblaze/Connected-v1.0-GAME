@@ -2,5 +2,6 @@ $PARTICLES = SET.arbitary()
 {
 set.(motion)== rand$$;
 threshold = 55;
+set.margin={10,25}
 size = (6,85);
 }
